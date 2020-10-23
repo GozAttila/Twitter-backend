@@ -1,0 +1,11 @@
+.idea
+*.pyc
+__pycache__
+*.sqlite3
+staticfiles
+
+# production
+/build
+
+# misc
+.env
